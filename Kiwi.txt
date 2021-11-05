@@ -1,0 +1,10 @@
+2021-11-05 13:49:07,998 root WARNING: Got some problems. Log-in fail 
+2021-11-05 13:49:07,998 root Level 35: User can't login 
+2021-11-05 13:49:07,998 root ERROR: Error message
+2021-11-05 13:49:07,998 root CRITICAL: Alert!!!
+2021-11-05 13:49:07,998 root DEBUG: Debug message.
+2021-11-05 13:49:07,998 root INFO: User login Successfully.
+2021-11-05 13:49:07,998 root WARNING: Got some problems. Log-in fail 
+2021-11-05 13:49:07,999 root Level 35: User can't login 
+2021-11-05 13:49:07,999 root ERROR: Error message
+2021-11-05 13:49:07,999 root CRITICAL: Alert!!!
